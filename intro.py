@@ -14,7 +14,7 @@ print('Este texto está sendo impresso no terminal do VSCode.')
 # Variáveis
 # Python tem tipagem dinâmica e por convensão, usa-se '_' para separar variáveis
 # com mais de uma palavra
-nome_completo = "Gabriel Barth Silvério"     #variável do tipo string
+nome_completo = "José da Silva"     #variável do tipo string
 idade = str(22)          #variárvel do tipo inteiro convertida para string
 altura = str(1.84)       #variárvel do tip float convertida para string
 print("Sou " + nome_completo + ", tenho " + idade + ' de idade e '  + altura + 
